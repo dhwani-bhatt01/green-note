@@ -8,26 +8,24 @@ function Footer() {
         <div className="footer-logo">
           <img src="" alt="" />
         </div>
-        <div className="footer-nav">
-          <div className="footer-nav-items">
-            <p className="nav-link-heading">
-              PRODUCT
-                        </p>
-            <ul className="footer-nav-links">
-              <li className="footer-link-child">Why Everote</li>
-              <li className="footer-link-child">Evernote Basic</li>
-              <li className="footer-link-child">Evernote Premium</li>
-              <li className="footer-link-child">Evernote Business</li>
-              <li className="footer-link-child">Compare Plans</li>
-              <li className="footer-link-child">Student Discount</li>
-              <li className="footer-link-child">Download App</li>
-            </ul>
-          </div>
-        </div>
+      </div>
+
+      <div className="footer-mid">
         <div className="footer-nav-items">
-          <p className="nav-link-heading">
-            FEATURES
-                        </p>
+          <p className="nav-link-heading">PRODUCT</p>
+          <ul className="footer-nav-links">
+            <li className="footer-link-child">Why Everote</li>
+            <li className="footer-link-child">Evernote Basic</li>
+            <li className="footer-link-child">Evernote Premium</li>
+            <li className="footer-link-child">Evernote Business</li>
+            <li className="footer-link-child">Compare Plans</li>
+            <li className="footer-link-child">Student Discount</li>
+            <li className="footer-link-child">Download App</li>
+          </ul>
+        </div>
+
+        <div className="footer-nav-items">
+          <p className="nav-link-heading">FEATURES</p>
           <ul className="footer-nav-links">
             <li className="footer-link-child">Web Clipper</li>
             <li className="footer-link-child">Templates</li>
@@ -41,9 +39,7 @@ function Footer() {
           </ul>
         </div>
         <div className="footer-nav-items">
-          <p className="nav-link-heading">
-            COMMUINTY
-                        </p>
+          <p className="nav-link-heading">COMMUINTY</p>
           <ul className="footer-nav-links">
             <li className="footer-link-child">Our Community</li>
             <li className="footer-link-child">Certified Consultants</li>
@@ -55,9 +51,7 @@ function Footer() {
           </ul>
         </div>
         <div className="footer-nav-items">
-          <p className="nav-link-heading">
-            SUPPORT
-                        </p>
+          <p className="nav-link-heading">SUPPORT</p>
           <ul className="footer-nav-links">
             <li className="footer-link-child">Help and Learning</li>
             <li className="footer-link-child">Troubleshooting</li>
@@ -75,22 +69,17 @@ function Footer() {
           </ul>
         </div>
       </div>
+
       <div className="footer-bottom">
         <div className="footer-bt">
           <div className="footer-btl">
-            <p className="footer-lang">
-              Choose a language
-                        </p>
+            <p className="footer-lang">Choose a language</p>
           </div>
-          <div className="footer-btr">
-            ICONS
-                    </div>
+          <div className="footer-btr">ICONS</div>
         </div>
         <div className="footer-bb">
           <div className="footer-copyright">
-            <p className="cr">
-              © 2021 Evernote Corporation. All rights reserved.Security Legal Privacy
-                        </p>
+            <p className="cr">© 2021 Evernote Corporation. All rights reserved.Security Legal Privacy</p>
           </div>
           <div className="footer-bb-ul">
             <ul className='footer-bb-links'>
